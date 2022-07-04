@@ -1,0 +1,36 @@
+D:\CihanCelik\Okulyonetim.App\Okulyonetim.App\bin\Debug\Okulyonetim.App.exe.config
+D:\CihanCelik\Okulyonetim.App\Okulyonetim.App\bin\Debug\Okulyonetim.App.exe
+D:\CihanCelik\Okulyonetim.App\Okulyonetim.App\bin\Debug\Okulyonetim.App.pdb
+D:\CihanCelik\Okulyonetim.App\Okulyonetim.App\bin\Debug\EntityFramework.dll
+D:\CihanCelik\Okulyonetim.App\Okulyonetim.App\bin\Debug\EntityFramework.SqlServer.dll
+D:\CihanCelik\Okulyonetim.App\Okulyonetim.App\bin\Debug\EntityFramework.xml
+D:\CihanCelik\Okulyonetim.App\Okulyonetim.App\bin\Debug\EntityFramework.SqlServer.xml
+D:\CihanCelik\Okulyonetim.App\Okulyonetim.App\obj\Debug\Okulyonetim.App.csprojAssemblyReference.cache
+D:\CihanCelik\Okulyonetim.App\Okulyonetim.App\obj\Debug\Okulyonetim.App.csproj.CoreCompileInputs.cache
+D:\CihanCelik\Okulyonetim.App\Okulyonetim.App\obj\Debug\Okulyonetim.App.csproj.CopyComplete
+D:\CihanCelik\Okulyonetim.App\Okulyonetim.App\obj\Debug\Okulyonetim.App.exe
+D:\CihanCelik\Okulyonetim.App\Okulyonetim.App\obj\Debug\Okulyonetim.App.pdb
+C:\Users\doğancan\Desktop\Okulyonetim.App\Okulyonetim.App\bin\Debug\Okulyonetim.App.exe.config
+C:\Users\doğancan\Desktop\Okulyonetim.App\Okulyonetim.App\bin\Debug\Okulyonetim.App.exe
+C:\Users\doğancan\Desktop\Okulyonetim.App\Okulyonetim.App\bin\Debug\Okulyonetim.App.pdb
+C:\Users\doğancan\Desktop\Okulyonetim.App\Okulyonetim.App\bin\Debug\EntityFramework.dll
+C:\Users\doğancan\Desktop\Okulyonetim.App\Okulyonetim.App\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\doğancan\Desktop\Okulyonetim.App\Okulyonetim.App\bin\Debug\EntityFramework.xml
+C:\Users\doğancan\Desktop\Okulyonetim.App\Okulyonetim.App\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\doğancan\Desktop\Okulyonetim.App\Okulyonetim.App\obj\Debug\Okulyonetim.App.csprojAssemblyReference.cache
+C:\Users\doğancan\Desktop\Okulyonetim.App\Okulyonetim.App\obj\Debug\Okulyonetim.App.csproj.CoreCompileInputs.cache
+C:\Users\doğancan\Desktop\Okulyonetim.App\Okulyonetim.App\obj\Debug\Okulyonetim.App.csproj.CopyComplete
+C:\Users\doğancan\Desktop\Okulyonetim.App\Okulyonetim.App\obj\Debug\Okulyonetim.App.exe
+C:\Users\doğancan\Desktop\Okulyonetim.App\Okulyonetim.App\obj\Debug\Okulyonetim.App.pdb
+C:\Users\Doğancan\Desktop\doğancan yedek\Okulyonetim.App\Okulyonetim.App\bin\Debug\Okulyonetim.App.exe.config
+C:\Users\Doğancan\Desktop\doğancan yedek\Okulyonetim.App\Okulyonetim.App\bin\Debug\Okulyonetim.App.exe
+C:\Users\Doğancan\Desktop\doğancan yedek\Okulyonetim.App\Okulyonetim.App\bin\Debug\Okulyonetim.App.pdb
+C:\Users\Doğancan\Desktop\doğancan yedek\Okulyonetim.App\Okulyonetim.App\bin\Debug\EntityFramework.dll
+C:\Users\Doğancan\Desktop\doğancan yedek\Okulyonetim.App\Okulyonetim.App\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Doğancan\Desktop\doğancan yedek\Okulyonetim.App\Okulyonetim.App\bin\Debug\EntityFramework.xml
+C:\Users\Doğancan\Desktop\doğancan yedek\Okulyonetim.App\Okulyonetim.App\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Doğancan\Desktop\doğancan yedek\Okulyonetim.App\Okulyonetim.App\obj\Debug\Okulyonetim.App.csproj.AssemblyReference.cache
+C:\Users\Doğancan\Desktop\doğancan yedek\Okulyonetim.App\Okulyonetim.App\obj\Debug\Okulyonetim.App.csproj.CoreCompileInputs.cache
+C:\Users\Doğancan\Desktop\doğancan yedek\Okulyonetim.App\Okulyonetim.App\obj\Debug\Okulyonetim.App.csproj.CopyComplete
+C:\Users\Doğancan\Desktop\doğancan yedek\Okulyonetim.App\Okulyonetim.App\obj\Debug\Okulyonetim.App.exe
+C:\Users\Doğancan\Desktop\doğancan yedek\Okulyonetim.App\Okulyonetim.App\obj\Debug\Okulyonetim.App.pdb
